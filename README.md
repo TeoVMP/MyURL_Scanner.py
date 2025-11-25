@@ -51,7 +51,8 @@ Requirements:
 Python 3.9+
 
 1. Clone the repository
-git clone https://github.com/yourusername/URLSandboxCLI
+git clone https://github.com/TeoVMP/URLSandboxCLI
+
 cd URLSandboxCLI
 
 2. Install dependencies
@@ -108,7 +109,7 @@ Requirements:
 Python 3.9+
 
 1. Clone the repository
-git clone https://github.com/yourusername/URLSandboxCLI
+git clone https://github.com/TeoVMP/URLSandboxCLI
 cd URLSandboxCLI
 
 2. Install dependencies
